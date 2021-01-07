@@ -1,0 +1,11 @@
+{
+  "name": "html-freebie-portfolio-perfect-master",
+  "version": "1.0.0",
+  "description": "One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
